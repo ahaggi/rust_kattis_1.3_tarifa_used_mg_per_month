@@ -6,7 +6,7 @@ use std::io::{BufRead, BufReader};
 // use std::io::{BufReader , BufRead , Lines , Error};
 
 fn main() {
-    // tarifa::main_file::main();
+    tarifa::main_file::main();
     // tarifa::main_file::test();
 }
 
