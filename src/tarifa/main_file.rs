@@ -4,6 +4,7 @@ use std::time::Instant;
 
 
 pub fn main() {
+    
     let limit: u32 = read_line_u32();
     let num_of_months: u32 = read_line_u32();
     let mut used_mg: u32 = 0;
